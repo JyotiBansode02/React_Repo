@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/React_Repo/static/css/main.f47dc734.css",
-    "main.js": "/React_Repo/static/js/main.9c1d2e12.js",
+    "main.js": "/React_Repo/static/js/main.c91d6825.js",
     "static/js/453.e5a5afbf.chunk.js": "/React_Repo/static/js/453.e5a5afbf.chunk.js",
+    "static/media/ipl.jpg": "/React_Repo/static/media/ipl.a3bc1519ab374b4e4845.jpg",
     "index.html": "/React_Repo/index.html",
     "main.f47dc734.css.map": "/React_Repo/static/css/main.f47dc734.css.map",
-    "main.9c1d2e12.js.map": "/React_Repo/static/js/main.9c1d2e12.js.map",
+    "main.c91d6825.js.map": "/React_Repo/static/js/main.c91d6825.js.map",
     "453.e5a5afbf.chunk.js.map": "/React_Repo/static/js/453.e5a5afbf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f47dc734.css",
-    "static/js/main.9c1d2e12.js"
+    "static/js/main.c91d6825.js"
   ]
 }
